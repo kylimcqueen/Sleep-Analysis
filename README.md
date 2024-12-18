@@ -4,6 +4,3 @@ This repository contains scripts and resources for analyzing sleep data generate
 
 # Files
 
-# Sleep Data Cleaning Instructions
-
-This file requires the sleep data filepath to run. Copy the path from the file's storage location on the local machine 
