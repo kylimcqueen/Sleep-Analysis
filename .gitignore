@@ -10,3 +10,4 @@ __pycache__/
 
 # Ignore system files
 .DS_Store
+data/all_nts_animals_baseline_tall_00.csv
